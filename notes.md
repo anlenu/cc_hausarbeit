@@ -24,7 +24,6 @@
       - Dann Änderungen durchführen ebenfalls mit niedriger TTL
       - Etwas Zeit geben um Änderungen und ggf Probleme zu verfolgen
       - TTL höher setzten
-  -
 
 ### Vorteile von DNS
 [link](https://stratusly.com/best-dns-hosting-cloudflare-dns-vs-dyn-vs-route-53-vs-dns-made-easy-vs-google-cloud-dns/)
